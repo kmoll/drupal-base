@@ -13,13 +13,13 @@
         "drupal/core": "~8.2",
         "drupal/entity_browser": "~1",
         "drupal/entity_embed": "~1",
-        "drupal/deploy": "~8.0",
-        "drupal/key_value": "~8.0",
-        "drupal/entity_storage_migrate": "~8.0",
-        "drupal/multiversion": "~8.0",
-        "drupal/relaxed": "~8.0",
-        "drupal/trash": "~8.0",
-        "drupal/workspace": "~8.0",
-        "drupal/replication": "~8.0"
+        "drupal/deploy": "~1",
+        "drupal/key_value": "~1",
+        "drupal/entity_storage_migrate": "~1",
+        "drupal/multiversion": "~1",
+        "drupal/relaxed": "~1",
+        "drupal/trash": "~1",
+        "drupal/workspace": "~1",
+        "drupal/replication": "~1"
     }
 }
