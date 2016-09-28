@@ -1,0 +1,25 @@
+{
+    "name": "kmoll/drupal-project",
+    "description": "This is an example site for install drupal with composer",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kevin Moll",
+            "email": "kevin.j.moll@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/core": "~8.2",
+        "drupal/entity_browser": "~8.0",
+        "drupal/entity_embed": "~8.0",
+        "drupal/deploy": "~8.0",
+        "drupal/key_value": "~8.0",
+        "drupal/entity_storage_migrate": "~8.0",
+        "drupal/multiversion": "~8.0",
+        "drupal/relaxed": "~8.0",
+        "drupal/trash": "~8.0",
+        "drupal/workspace": "~8.0",
+        "drupal/replication": "~8.0"
+    }
+}
