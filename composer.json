@@ -1,5 +1,5 @@
 {
-    "name": "kmoll/drupal-project",
+    "name": "kmoll/drupal-base",
     "description": "This is an example site for install drupal with composer",
     "type": "project",
     "authors": [
